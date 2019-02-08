@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Dominic Kantrude",
+      "address": "1234 there",
+      "phone": "1-222-333-4444",
+      "email": "gottaEmail.com"
+    },
+    {
+      "id": 2,
+      "name": "bobby bill",
+      "address": "1234 here",
+      "phone": "1-595-333-9999",
+      "email": "dontEmail.com"
+    },
+    {
+      "id": 3,
+      "name": "billy bob",
+      "address": "1234 over there",
+      "phone": "1-424-225-1111",
+      "email": "myEmail.com"
+    }
+  ]
+}
